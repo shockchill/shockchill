@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shockchill
+- 👋 Hi, I’m @SharkChili
 - 👀 I’m interested in deeplearning
 - 🌱 I’m currently learning radar%camera fusion
 - 💞️ I’m looking to collaborate on ...
